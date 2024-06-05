@@ -6,5 +6,35 @@ I am going to learn Java and C++ and improve my Problem Solving Skills during my
 
 All the Best to me. 😊
 
+Link to GFG account : [GeeksForGeeks](https://www.geeksforgeeks.org/user/avanishpyps/)
+
 <br>
-DAY 1 : solved 4 GFG questions from SDE sheet.
+DAY 1  : solved 4 GFG questions from SDE sheet.
+<br>
+DAY 2  :
+<br>
+DAY 3  : 
+<br>
+DAY 4  :
+<br>
+DAY 5  :
+<br>
+DAY 6  :
+<br>
+DAY 7  :
+<br>
+DAY 8  :
+<br>
+DAY 9  :
+<br>
+DAY 10 :
+<br>
+DAY 11 :
+<br>
+DAY 12 :
+<br>
+DAY 13 :
+<br>
+DAY 14 :
+<br>
+DAY 15 :
