@@ -11,7 +11,7 @@ Link to GFG account : [GeeksForGeeks](https://www.geeksforgeeks.org/user/avanish
 <br>
 DAY 1  : solved 4 GFG questions from SDE sheet.
 <br>
-DAY 2  :Solved 6 GFG questions.
+DAY 2  : solved 6 GFG questions.
 <br>
 DAY 3  : 
 <br>
