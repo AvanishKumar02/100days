@@ -13,7 +13,7 @@ DAY 1  : solved 4 GFG questions from SDE sheet.
 <br>
 DAY 2  : solved 6 GFG questions.
 <br>
-DAY 3  : 
+DAY 3  : solved 2 GFG questions.
 <br>
 DAY 4  :
 <br>
