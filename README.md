@@ -17,7 +17,7 @@ DAY 3  : solved 2 GFG questions.
 <br>
 DAY 4  :solved 3 GFG questions.
 <br>
-DAY 5  :
+DAY 5  :solved 2 GFG questions.
 <br>
 DAY 6  :
 <br>
