@@ -27,7 +27,7 @@ DAY 8  : solved 3 GFG questions.
 <br>
 DAY 9  : solved 2 GFG questions.
 <br>
-DAY 10 :
+DAY 10 : solved 3 GFG questions.
 <br>
 DAY 11 :
 <br>
