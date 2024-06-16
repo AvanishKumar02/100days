@@ -29,7 +29,7 @@ DAY 9  : solved 2 GFG questions.
 <br>
 DAY 10 : solved 3 GFG questions.
 <br>
-DAY 11 :
+DAY 11 : solved 4 GFG questions
 <br>
 DAY 12 :
 <br>
