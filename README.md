@@ -29,11 +29,13 @@ DAY 9  : solved 2 GFG questions.
 <br>
 DAY 10 : solved 3 GFG questions.
 <br>
-DAY 11 : solved 4 GFG questions
+DAY 11 : solved 4 GFG questions.
 <br>
-DAY 12 :
+Took a break due to health issues.(Continued From 06/07/2024)
 <br>
-DAY 13 :
+DAY 12 :Completed 5 LeetCode Submissions.
+<br>
+DAY 13 :Completed 25 LeetCode Submissions.
 <br>
 DAY 14 :
 <br>
