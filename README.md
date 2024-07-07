@@ -37,6 +37,6 @@ DAY 12 :Completed 5 LeetCode Submissions.
 <br>
 DAY 13 :Completed 25 LeetCode Submissions.
 <br>
-DAY 14 :
+DAY 14 :Completed 12 LeetCode Submissions.
 <br>
 DAY 15 :
